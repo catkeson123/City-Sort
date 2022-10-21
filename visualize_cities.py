@@ -31,3 +31,15 @@ def main():
         i = i + 1
 
 start_graphics(main, width = 720, height = 360, framerate = 5)
+
+
+
+
+
+
+
+
+
+
+
+
